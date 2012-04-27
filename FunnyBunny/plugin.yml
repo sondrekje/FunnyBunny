@@ -1,0 +1,12 @@
+name: FunnyBunny
+author: CXdur
+main: me.cxdur.funnybunny.FunnyBunny
+description: Lol
+version: 1.0
+commands:
+    funnybunny:
+      aliases:
+        - fb
+      description: thefuch
+      usage: |
+             /<command>
